@@ -343,6 +343,15 @@ export default {
         customBackend: { "周润发HK后端【由YXVM赞助服务】": "https://subapi.zrfme.com", "周润发US后端【Phala Cloud】": "https://1060e98895bedf43d3d738e3b7fc9120a0cbbbcf-15051.dstack-prod8.phala.network", "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net", "CM应急备用后端【vless reality+hy1+hy2】": "https://subapi.fxxk.dedyn.io", "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk", "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk", nameless13提供: "https://www.nameless13.com", subconverter作者提供: "https://sub.xeton.dev", "sub-web作者提供": "https://api.wcc.best", "920后端": "https://sub.xjz.im", "Sublink后端（歪兔）": "https://api.sublink.dev", "SoCloud 提供": "https://api.subcsub.com" },
         backendOptions: [ { value: "https://subapi.zrfme.com" }, { value: "https://1060e98895bedf43d3d738e3b7fc9120a0cbbbcf-15051.dstack-prod8.phala.network" }, { value: "https://subapi.cmliussss.net" }, { value: "https://subapi.fxxk.dedyn.io" }, { value: "https://url.v1.mk" }, { value: "https://sub.d1.mk" }, { value: "https://www.nameless13.com" }, { value: "https://sub.xeton.dev" }, { value: "https://api.wcc.best" }, { value: "https://sub.xjz.im" }, { value: "https://api.sublink.dev" }, { value: "https://api.subcsub.com" } ],
         remoteConfig: [
+                    {
+            label: "Me",
+            options: [
+              {
+                label: "Naixi",
+                value: "https://cdn.jsdelivr.net/gh/utopia0051/sub-web-modify@master/src/views/naixi.ini"
+              }
+            ]
+          },
           {
             label: "CM规则",
             options: [
