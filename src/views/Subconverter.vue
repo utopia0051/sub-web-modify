@@ -347,9 +347,17 @@ export default {
             label: "Me",
             options: [
               {
-                label: "Naixi",
+                label: "Nexitally",
                 value: "https://raw.githubusercontent.com/utopia0051/sub-web-modify/master/src/views/naixi2.ini?v=20260413e"
-              }
+              },
+              {
+                label: "Flowercloud",
+                value: "https://raw.githubusercontent.com/utopia0051/sub-rules//main/Flowercloud/flower.ini"
+              },
+              {
+                label: "Basic",
+                value: "https://raw.githubusercontent.com/utopia0051/sub-rules//main/Basic/basic.ini"
+              },
             ]
           },
           {
