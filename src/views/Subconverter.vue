@@ -348,15 +348,15 @@ export default {
             options: [
               {
                 label: "Nexitally",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-web-modify/master/src/views/naixi2.ini?v=20260413e"
+                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Flowercloud/flower.ini"
               },
               {
                 label: "Flowercloud",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-rules//main/Flowercloud/flower.ini"
+                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Nexitally/nexitally.ini"
               },
               {
                 label: "Basic",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-rules//main/Basic/basic.ini"
+                value: "https://raw.githubusercontent.com/utopia0051/Basic/basic.ini"
               },
             ]
           },
@@ -787,7 +787,7 @@ export default {
           }
         ]
       },
-      form: { sourceSubUrl: "", clientType: "", customBackend: this.getUrlParam() == "" ? "https://subapi.aitools.pp.ua" : this.getUrlParam(), shortType: "https://v1.mk/short", remoteConfig: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini", excludeRemarks: "", includeRemarks: "", filename: "", rename: "", devid: "", interval: "", emoji: true, nodeList: false, extraset: false, tls13: false, udp: false, xudp: false, tfo: false, sort: false, expand: true, scv: false, fdn: false, appendType: false, insert: false, new_name: true, tpl: { surge: { doh: false }, clash: { doh: false }, singbox: { ipv6: false } } },
+      form: { sourceSubUrl: "", clientType: "", customBackend: this.getUrlParam() == "" ? "https://subapi.aitools.pp.ua" : this.getUrlParam(), shortType: "https://v1.mk/short", remoteConfig: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Flowercloud/flower.ini", excludeRemarks: "", includeRemarks: "", filename: "", rename: "", devid: "", interval: "", emoji: true, nodeList: false, extraset: false, tls13: false, udp: false, xudp: false, tfo: false, sort: false, expand: true, scv: false, fdn: false, appendType: false, insert: false, new_name: true, tpl: { surge: { doh: false }, clash: { doh: false }, singbox: { ipv6: false } } },
       loading1: false,
       loading2: false,
       loading3: false,
