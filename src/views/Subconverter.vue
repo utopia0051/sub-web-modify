@@ -348,11 +348,11 @@ export default {
             options: [
               {
                 label: "Nexitally",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Flowercloud/flower.ini"
+                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Nexitally/nexitally.ini"
               },
               {
                 label: "Flowercloud",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Nexitally/nexitally.ini"
+                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Flowercloud/flower.ini"
               },
               {
                 label: "Basic",
