@@ -348,7 +348,7 @@ export default {
             options: [
               {
                 label: "Naixi",
-                value: "https://cdn.jsdelivr.net/gh/utopia0051/sub-web-modify@master/src/views/naixi.ini"
+                value: "https://raw.githubusercontent.com/utopia0051/sub-web-modify/master/src/views/naixi2.ini?v=20260412"
               }
             ]
           },
