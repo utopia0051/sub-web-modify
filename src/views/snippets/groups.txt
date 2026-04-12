@@ -1,0 +1,30 @@
+🚀 遵纪守法小组`select`(^(?!.*(机场订阅|IEPL|实验性|高级|标准)).*)
+✈️ 机场订阅`select`(机场订阅|IEPL|实验性|高级|标准)
+Proxies`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`.*
+Netflix`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+HBO`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+DisneyPlus`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+YouTube`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Bahamut`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Bilibili`select`[]🎯Direct`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`.*
+MyTVSuper`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+AI`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+GitHub`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Telegram`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Twitter`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Facebook`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Crypto`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+PayPal`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Steam`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Epic`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Xbox`select`[]🎯Direct`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`.*
+PlayStation`select`[]🎯Direct`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`.*
+Microsoft`select`[]🎯Direct`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`.*
+Scholar`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Apple`select`[]🎯Direct`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`.*
+Google`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Tiktok`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
+Duolingo`select`[]🎯Direct`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`.*
+Speedtest`select`[]🎯Direct`[]Proxies`.*
+🎯Direct`select`[]DIRECT`[]Proxies
+✈️Final`select`[]🚀 遵纪守法小组`[]✈️ 机场订阅`[]Proxies`[]🎯Direct`.*
