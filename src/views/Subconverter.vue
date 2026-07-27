@@ -347,32 +347,40 @@ export default {
             label: "Me",
             options: [
               {
-                label: "Nexitally",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Nexitally/nexitally.ini"
-              },
-              {
-                label: "Flowercloud",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Flowercloud/flower.ini"
-              },
-              {
-                label: "完整版（Clash/mihomo）",
+                label: "二合一整合（Clash/mihomo）",
                 value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/sub-rules.ini"
               },
               {
-                label: "精简版",
-                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/basic.ini"
+                label: "机场订阅",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/jichang-rules.ini"
               },
               {
-                label: "硬核去广告版",
-                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/sub-rules-adblock.ini"
+                label: "单个订阅vip",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/dangevip-rules.ini"
               },
               {
                 label: "Shadowrocket 专用（目标选 Surge ver4）",
                 value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/shadowrocket.ini"
               },
               {
+                label: "精简版",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/basic.ini"
+              },
+              {
                 label: "软路由 OpenClash 版",
                 value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/openclash.ini"
+              },
+              {
+                label: "二合一去广告版",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/sub-rules-adblock.ini"
+              },
+              {
+                label: "Nexitally",
+                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Nexitally/nexitally.ini"
+              },
+              {
+                label: "Flowercloud",
+                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Flowercloud/flower.ini"
               },
             ]
           },
@@ -803,7 +811,7 @@ export default {
           }
         ]
       },
-      form: { sourceSubUrl: "", clientType: "", customBackend: this.getUrlParam() == "" ? "https://subapi.aitools.pp.ua" : this.getUrlParam(), shortType: "https://v1.mk/short", remoteConfig: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Flowercloud/flower.ini", excludeRemarks: "", includeRemarks: "", filename: "", rename: "", devid: "", interval: "", emoji: true, nodeList: false, extraset: false, tls13: false, udp: false, xudp: false, tfo: false, sort: false, expand: true, scv: false, fdn: false, appendType: false, insert: false, new_name: true, tpl: { surge: { doh: false }, clash: { doh: false }, singbox: { ipv6: false } } },
+      form: { sourceSubUrl: "", clientType: "", customBackend: this.getUrlParam() == "" ? "https://subapi.aitools.pp.ua" : this.getUrlParam(), shortType: "https://v1.mk/short", remoteConfig: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/sub-rules.ini", excludeRemarks: "", includeRemarks: "", filename: "", rename: "", devid: "", interval: "", emoji: true, nodeList: false, extraset: false, tls13: false, udp: false, xudp: false, tfo: false, sort: false, expand: true, scv: false, fdn: false, appendType: false, insert: false, new_name: true, tpl: { surge: { doh: false }, clash: { doh: false }, singbox: { ipv6: false } } },
       loading1: false,
       loading2: false,
       loading3: false,
