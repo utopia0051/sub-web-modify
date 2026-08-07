@@ -347,40 +347,36 @@ export default {
             label: "Me",
             options: [
               {
-                label: "二合一整合（Clash/mihomo）",
-                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/sub-rules.ini"
-              },
-              {
-                label: "机场订阅",
-                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/jichang-rules.ini"
+                label: "单个订阅精简",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/basic.ini"
               },
               {
                 label: "单个订阅vip",
                 value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/dangevip-rules.ini"
               },
               {
+                label: "机场订阅",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/jichang-rules.ini"
+              },
+              {
+                label: "二合一整合",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/sub-rules.ini"
+              },
+              {
+                label: "OpenClash机场版",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/openclash-jichang.ini"
+              },
+              {
+                label: "OpenClash二合一版",
+                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/openclash.ini"
+              },
+              {
                 label: "Shadowrocket 专用（目标选 Surge ver4）",
                 value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/shadowrocket.ini"
               },
               {
-                label: "精简版",
-                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/basic.ini"
-              },
-              {
-                label: "软路由 OpenClash 版",
-                value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/openclash.ini"
-              },
-              {
                 label: "二合一去广告版",
                 value: "https://raw.githubusercontent.com/utopia0051/my-sub-rules/main/config/sub-rules-adblock.ini"
-              },
-              {
-                label: "Nexitally",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Nexitally/nexitally.ini"
-              },
-              {
-                label: "Flowercloud",
-                value: "https://raw.githubusercontent.com/utopia0051/sub-rules/main/Flowercloud/flower.ini"
               },
             ]
           },
